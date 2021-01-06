@@ -31,12 +31,16 @@ https://sec-deadlines.github.io/
 
 ## 网络与信息安全国际学术期刊
 
-A类
-TDSC IEEE Transactions on Dependable and Secure Computing IEEE http://dblp.uni-trier.de/db/journals/tdsc/
-TIFS IEEE Transactions on Information Forensics and Security IEEE http://dblp.uni-trier.de/db/journals/tifs/
+**A类**
+| 缩写 |  全名   |  网址   |
+|:--------:|-------------|-------------|
+| TDSC | IEEE Transactions on Dependable and Secure Computing IEEE | http://dblp.uni-trier.de/db/journals/tdsc/ |
+| TIFS | IEEE Transactions on Information Forensics and Security IEEE | http://dblp.uni-trier.de/db/journals/tifs/ |
 
-B类
-Computers & Security Elsevier http://dblp.uni-trier.de/db/journals/compsec/
+**B类**
+| 缩写 |  全名   |  网址   |
+|:--------:|-------------|-------------|
+| | Computers & Security Elsevier | http://dblp.uni-trier.de/db/journals/compsec/ |
 
 
 
